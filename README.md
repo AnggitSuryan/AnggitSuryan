@@ -6,7 +6,7 @@
         alert("khusus buat kamu");
         
         function sayHelo(){
-            alert("I Love You to The Moon and Back");
+            alert("kamu tau gak sih kalau aku itu suka sama kamu, kalau nanti kamu ngerasa aku udah gak perhatian sama kamu berarti aku sudah menyerah buat mengejarmu lagi tapi bukan berarti aku sudah gak suka sama kamu jadi tolong hargai ya sebelum aku benar benar pergi");
         }
     </script>
 </head>
